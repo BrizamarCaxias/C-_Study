@@ -1,0 +1,15 @@
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\bin\Debug\net6.0\Capitulo02.exe
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\bin\Debug\net6.0\Capitulo02.deps.json
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\bin\Debug\net6.0\Capitulo02.runtimeconfig.json
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\bin\Debug\net6.0\Capitulo02.dll
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\bin\Debug\net6.0\Capitulo02.pdb
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.csproj.AssemblyReference.cache
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.AssemblyInfoInputs.cache
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.AssemblyInfo.cs
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.csproj.CoreCompileInputs.cache
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.dll
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\refint\Capitulo02.dll
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.pdb
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\Capitulo02.genruntimeconfig.cache
+C:\Users\briza\source\repos\Capitulo02\Capitulo02\obj\Debug\net6.0\ref\Capitulo02.dll
