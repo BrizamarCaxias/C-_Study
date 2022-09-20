@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BasicOO {
-    abstract class Medico : Funcionario {
+     class Medico{
         String CRM;
-        abstract public void Operar();
+      public void Operar() { Console.WriteLine("Médico Opera!"); }
     }
 }

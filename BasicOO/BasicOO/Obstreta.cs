@@ -5,9 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BasicOO {
-    class Gerente : Funcionario {
-        String CRA;
-        void LiberarPagamento() { 
+    class Obstreta:Medico{
+
+        public override void Operar() {
+            Console.WriteLine("Obestreta procedimento.");
         }
+
+       
     }
 }
