@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "l6pVplAYhvJ9IwGUfgxyybVvwdE1Ee+aq4zYh9CYOcAWybnvx7xhLgLSYOai5vI3AoAGGUhXJYgRp2G2Cuk83Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\briza\\OneDrive\\Documentos\\CSharp Projetos\\C-_Study\\ListTask\\ListTask\\ListTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\briza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\briza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\briza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\briza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\briza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\briza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
